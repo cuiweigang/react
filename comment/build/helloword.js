@@ -1,0 +1,7 @@
+/**
+ * 分离成单独的文件
+ */
+React.render(
+	React.createElement("h1", null, "Hello, world!"),
+	document.getElementById("content")
+)
